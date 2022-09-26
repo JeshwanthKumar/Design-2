@@ -1,4 +1,5 @@
 #Time Complexity: put- O(1), get - O(1), remove - O(1)
+#Approach : Linear Chaining 
 
 class MyHashMap(object):
     class ListNode:
